@@ -35,6 +35,16 @@ keybindings.json
 ]
 ```
 
+settings.json
+```json
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": false,
+    "workbench.layoutControl.type": "menu",
+    "workbench.layoutControl.enabled": false,
+    "workbench.activityBar.visible": false
+}
+```
 hhkb.ahk
 ```
 Capslock::Ctrl
