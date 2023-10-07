@@ -39,6 +39,7 @@ settings.json
 ```json
 {
     "window.menuBarVisibility": "toggle",
+    "window.commandCenter": false,
     "workbench.statusBar.visible": false,
     "workbench.layoutControl.type": "menu",
     "workbench.layoutControl.enabled": false,
