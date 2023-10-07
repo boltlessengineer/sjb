@@ -42,7 +42,8 @@ settings.json
     "workbench.statusBar.visible": false,
     "workbench.layoutControl.type": "menu",
     "workbench.layoutControl.enabled": false,
-    "workbench.activityBar.visible": false
+    "workbench.activityBar.visible": false,
+    "terminal.integrated.allowChords": false
 }
 ```
 hhkb.ahk
